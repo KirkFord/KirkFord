@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **kirkford@hotmail.ca**
 
-- 📄 Know about my experiences [https://kirkford.art/files/Kirk%20Ford%20Resume.pdf](https://kirkford.art/files/Kirk%20Ford%20Resume.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kirk-ford/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kirk-ford/" height="30" width="40" /></a>
